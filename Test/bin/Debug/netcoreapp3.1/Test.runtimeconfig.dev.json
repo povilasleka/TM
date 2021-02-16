@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\povilas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\povilas\\.nuget\\packages"
+    ]
+  }
+}
